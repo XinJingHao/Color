@@ -1,6 +1,6 @@
 # Color
 
-This is the code of the paper [Train a Real-world Local Path Planner in One Hour via Partially Decoupled Reinforcement Learning and Vectorized Diversity](xxxx). The Actor-Sharer-Learner DRL training framework can be found [here](https://github.com/XinJingHao/Sparrow-V0), and the Sparrow simulator can be found [here](https://github.com/XinJingHao/Sparrow-V0).  
+This is the code of the paper [Train a Real-world Local Path Planner in One Hour via Partially Decoupled Reinforcement Learning and Vectorized Diversity](https://arxiv.org/abs/2305.04180). The Actor-Sharer-Learner DRL training framework can be found [here](https://github.com/XinJingHao/Sparrow-V0), and the Sparrow simulator can be found [here](https://github.com/XinJingHao/Sparrow-V0).  
 
 ## Actor-Sharer-Learner (ASL): An Efficient Training Framework for Off-policy Deep Reinforcement Learning
 <div align="center">
@@ -10,7 +10,7 @@ This is the code of the paper [Train a Real-world Local Path Planner in One Hour
 <br/>
 <br/>
 
-  The trianing curves of ASL on 57 Atari games are listed as follows.
+  The trianing curves of ASL on 57 [Atari](https://www.gymlibrary.dev/environments/atari/) games are listed as follows.
 
 <div align="center">
 <img width="100%" height="auto" src="https://github.com/XinJingHao/Images/blob/main/asl/ss_e.svg">
@@ -23,3 +23,17 @@ This is the code of the paper [Train a Real-world Local Path Planner in One Hour
 <div align="center">
 <img width="100%" height="auto" src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V0/Show_SparrowV0.gif">
 </div>
+
+## Citing the Project
+
+To cite this repository in publications:
+
+```bibtex
+@article{Color2023JinghaoXin,
+  title={Train a Real-world Local Path Planner in One Hour via Partially Decoupled Reinforcement Learning and Vectorized Diversity},
+  author={Jinghao Xin, Jinwoo Kim, Zhi Li, and Ning Li},
+  journal={arXiv preprint arXiv:2305.04180},
+  url={https://doi.org/10.48550/arXiv.2305.04180},
+  year={2023}
+}
+```
