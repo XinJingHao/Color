@@ -18,11 +18,27 @@ This is the code of the paper [Train a Real-world Local Path Planner in One Hour
 
 
 
+<br/>
+<br/>
+
 ## Sparrow: A Reinforcement Learning Friendly Simulator for Mobile Robot
 
 <div align="center">
 <img width="100%" height="auto" src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V0/Show_SparrowV0.gif">
 </div>
+
+<br/>
+<br/>
+
+## Real-world assessment of Color
+
+<div align="center">
+<img width="100%" height="auto" src="https://github.com/XinJingHao/Images/blob/main/asl/real36.jpg">
+</div>
+
+
+<br/>
+<br/>
 
 ## Citing the Project
 
