@@ -1,6 +1,12 @@
 # Color
-
 This is the code of the paper [Train a Real-world Local Path Planner in One Hour via Partially Decoupled Reinforcement Learning and Vectorized Diversity](https://arxiv.org/abs/2305.04180). The Actor-Sharer-Learner (ASL) DRL training framework can be found [here](https://github.com/XinJingHao/Actor-Sharer-Learner), the Sparrow simulator can be found [here](https://github.com/XinJingHao/Sparrow-V0), and the real world experiments can be found [here](https://www.youtube.com/watch?v=16IZcqJ1jZY).  
+
+<div align="center">
+<img width="100%" height="auto" src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V0/color_img.png">
+</div>
+
+<br/>
+<br/>
 
 ## Actor-Sharer-Learner (ASL): An Efficient Training Framework for Off-policy Deep Reinforcement Learning
 <div align="center">
