@@ -1,5 +1,15 @@
-# Color
-This is the code of the paper [Train a Real-world Local Path Planner in One Hour via Partially Decoupled Reinforcement Learning and Vectorized Diversity](https://arxiv.org/abs/2305.04180). The Actor-Sharer-Learner (ASL) DRL training framework can be found [here](https://github.com/XinJingHao/Actor-Sharer-Learner), the Sparrow simulator can be found [here](https://github.com/XinJingHao/Sparrow-V0), and the real world experiments can be found [here](https://www.youtube.com/watch?v=16IZcqJ1jZY).  
+# Color: Train a Real-world Local Path Planner in One Hour
+
+<div align="center">
+<img width="75%" height="auto" src="https://github.com/XinJingHao/Images/blob/main/asl/real36.jpg">
+</div>
+
+This is the code of the paper [Train a Real-world Local Path Planner in One Hour via Partially Decoupled Reinforcement Learning and Vectorized Diversity](https://arxiv.org/abs/2305.04180). The video of the real world experiments can be found [here](https://www.youtube.com/watch?v=16IZcqJ1jZY).  
+
+<br/>
+<br/>
+
+## Methodology: Color = [ASL](https://github.com/XinJingHao/Actor-Sharer-Learner) + [Sparrow](https://github.com/XinJingHao/Sparrow-V0)
 
 <div align="center">
 <img width="100%" height="auto" src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V0/color_img.png">
@@ -36,15 +46,6 @@ This is the code of the paper [Train a Real-world Local Path Planner in One Hour
 <br/>
 <br/>
 
-## [Real-world assessment of Color](https://www.youtube.com/watch?v=16IZcqJ1jZY)
-
-<div align="center">
-<img width="100%" height="auto" src="https://github.com/XinJingHao/Images/blob/main/asl/real36.jpg">
-</div>
-
-
-<br/>
-<br/>
 
 ## Citing the Project
 
