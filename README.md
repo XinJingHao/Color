@@ -9,7 +9,7 @@ This is the code of the paper [Train a Real-world Local Path Planner in One Hour
 <br/>
 <br/>
 
-## Methodology: Color = [ASL](https://github.com/XinJingHao/Actor-Sharer-Learner) + [Sparrow](https://github.com/XinJingHao/Sparrow-V0)
+## Methodology: Color = [Sparrow](https://github.com/XinJingHao/Sparrow-V0) + [ASL](https://github.com/XinJingHao/Actor-Sharer-Learner)
 
 <div align="center">
 <img width="100%" height="auto" src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V0/color_img.png">
