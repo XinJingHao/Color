@@ -8,7 +8,7 @@ This is the code of the paper [Train a Real-world Local Path Planner in One Hour
 <br/>
 <br/>
 
-## Actor-Sharer-Learner (ASL): An Efficient Training Framework for Off-policy Deep Reinforcement Learning
+## [Actor-Sharer-Learner (ASL): An Efficient Training Framework for Off-policy Deep Reinforcement Learning](https://github.com/XinJingHao/Actor-Sharer-Learner)
 <div align="center">
   <a ><img width="1200px" height="auto" src="https://github.com/XinJingHao/Images/blob/main/asl/ASL.jpg"></a>
 </div>  
@@ -27,7 +27,7 @@ This is the code of the paper [Train a Real-world Local Path Planner in One Hour
 <br/>
 <br/>
 
-## Sparrow: A Reinforcement Learning Friendly Simulator for Mobile Robot
+## [Sparrow: A Reinforcement Learning Friendly Simulator for Mobile Robot](https://github.com/XinJingHao/Sparrow-V0)
 
 <div align="center">
 <img width="100%" height="auto" src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V0/Show_SparrowV0.gif">
@@ -36,7 +36,7 @@ This is the code of the paper [Train a Real-world Local Path Planner in One Hour
 <br/>
 <br/>
 
-## Real-world assessment of Color
+## [Real-world assessment of Color](https://www.youtube.com/watch?v=16IZcqJ1jZY)
 
 <div align="center">
 <img width="100%" height="auto" src="https://github.com/XinJingHao/Images/blob/main/asl/real36.jpg">
