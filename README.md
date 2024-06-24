@@ -12,7 +12,7 @@ The video of the real world experiments can be found [here](https://www.youtube.
 <br/>
 <br/>
 
-## Methodology: Color = [Sparrow](https://github.com/XinJingHao/Sparrow-V0) + [ASL](https://github.com/XinJingHao/Actor-Sharer-Learner)
+## Methodology: Color = [Sparrow](https://github.com/XinJingHao/Sparrow-V1) + [ASL](https://github.com/XinJingHao/Actor-Sharer-Learner)
 
 <div align="center">
 <img width="100%" height="auto" src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V0/color_img.png">
@@ -21,10 +21,10 @@ The video of the real world experiments can be found [here](https://www.youtube.
 <br/>
 <br/>
 
-## [1. Sparrow: A Reinforcement Learning Friendly Simulator for Mobile Robot](https://github.com/XinJingHao/Sparrow-V0)
+## [1. Sparrow: A Reinforcement Learning Friendly Simulator for Mobile Robot](https://github.com/XinJingHao/Sparrow-V1)
 
 <div align="center">
-<img width="100%" height="auto" src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V0/Show_SparrowV0.gif">
+<img width="100%" height="auto" src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V1/render.gif">
 </div>
 
 <br/>
