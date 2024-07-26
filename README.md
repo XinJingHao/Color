@@ -1,13 +1,8 @@
 # Color: Train a Real-world Local Path Planner in One Hour
 
-<div align="center">
-<img width="75%" height="auto" src="https://github.com/XinJingHao/Images/blob/main/asl/real36.jpg">
-</div>
+[![color_real](https://github.com/XinJingHao/Images/blob/main/asl/video.jpg)](https://youtu.be/5YynoSQGlYU)
 
 This is the code of the paper [Train a Real-world Local Path Planner in One Hour via Partially Decoupled Reinforcement Learning and Vectorized Diversity](https://arxiv.org/abs/2305.04180). 
-<br/>
-
-The video of the real world experiments can be found [here](https://www.youtube.com/watch?v=16IZcqJ1jZY).  
 
 <br/>
 <br/>
