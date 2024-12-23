@@ -1,14 +1,14 @@
 # Color: Train a Real-world Local Path Planner in One Hour
 
 <p align="center">
-  <img src="https://github.com/XinJingHao/Color/blob/main/Imgs/1.gif" width="200" />
-  <img src="https://github.com/XinJingHao/Color/blob/main/Imgs/2.gif" width="200" />
-  <img src="https://github.com/XinJingHao/Color/blob/main/Imgs/3.gif" width="200" />
+  <img src="https://github.com/XinJingHao/Color/blob/main/Imgs/1.gif" width="250" />
+  <img src="https://github.com/XinJingHao/Color/blob/main/Imgs/2.gif" width="250" />
+  <img src="https://github.com/XinJingHao/Color/blob/main/Imgs/3.gif" width="250" />
 </p>
 <p align="center">
-  <img src="https://github.com/XinJingHao/Color/blob/main/Imgs/4.gif" width="200" />
-  <img src="https://github.com/XinJingHao/Color/blob/main/Imgs/5.gif" width="200" />
-  <img src="https://github.com/XinJingHao/Color/blob/main/Imgs/6.gif" width="200" />
+  <img src="https://github.com/XinJingHao/Color/blob/main/Imgs/4.gif" width="250" />
+  <img src="https://github.com/XinJingHao/Color/blob/main/Imgs/5.gif" width="250" />
+  <img src="https://github.com/XinJingHao/Color/blob/main/Imgs/6.gif" width="250" />
 </p>
 
 
